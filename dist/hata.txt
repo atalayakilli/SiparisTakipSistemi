@@ -1,0 +1,12 @@
+Class: Giris, Function: kullaniciKontrol --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Sing up data kontrol: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Class: singUp, Function: dataGonder --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Class: Giris, Function: kullaniciKontrol --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Sing up data kontrol: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Class: singUp, Function: dataGonder --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'finalproject.admins' doesn't exist
+Class: siparisEkrani, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
+Class: siparisEkrani, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
+Class: siparisArsiv, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
+Class: siparisArsiv, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
+Class: siparisArsiv, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
+Class: siparisEkrani, Function: dataDoldur --- com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'sdurum' in 'where clause'
